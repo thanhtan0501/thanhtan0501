@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aurorp1g/Aurorp1g/main/footer.webp" alt="Colorful software engineering technology collage" width="100%" />
+  <!-- Source: https://github.com/Aurorp1g/Aurorp1g/blob/main/footer.webp -->
+  <img src="./assets/footer.webp" alt="Colorful software engineering technology collage" width="100%" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Developer animation" /> About Me:
@@ -29,94 +30,65 @@
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Coding animation" /> Skills
 
-> Tools and Technologies
+<p align="center"><sub>Tools and technologies I use to build reliable products.</sub></p>
 
-<table>
+<table align="center">
   <tr>
-    <th colspan="5" align="left">Frontend</th>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5" /><br />HTML5</td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3" /><br />CSS3</td>
-    <td align="center" width="20%"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="44" height="44" alt="JavaScript" /><br />JavaScript</td>
-    <td align="center" width="20%"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="44" height="44" alt="TypeScript" /><br />TypeScript</td>
-    <td align="center" width="20%"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="44" height="44" alt="React" /><br />React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5" /><br />HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3" /><br />CSS3</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="44" height="44" alt="JavaScript" /><br />JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="44" height="44" alt="TypeScript" /><br />TypeScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="44" height="44" alt="React" /><br />React</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" /><br />Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" /><br />Tailwind CSS</td>
-  </tr>
-  <tr>
-    <th colspan="5" align="left">Backend</th>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" /><br />Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" /><br />NestJS</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="44" height="44" alt="REST APIs" /><br />REST APIs</td>
-    <td align="center"><code>WebSockets</code></td>
-    <td align="center"><code>API design</code></td>
   </tr>
   <tr>
-    <th colspan="5" align="left">Databases &amp; Data</th>
-  </tr>
-  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=socketio" width="44" height="44" alt="WebSockets" /><br />WebSockets</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br />PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" /><br />MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" /><br />Redis</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" /><br />Prisma</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=drizzle" width="44" height="44" alt="Drizzle ORM" /><br />Drizzle ORM</td>
-  </tr>
-  <tr>
-    <th colspan="5" align="left">Cloud &amp; DevOps</th>
-  </tr>
-  <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="44" height="44" alt="Docker" /><br />Docker</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="44" height="44" alt="AWS" /><br />AWS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br />Git</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="44" height="44" alt="GitHub" /><br />GitHub</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" /><br />GitHub Actions</td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" /><br />Linux</td>
-    <td align="center"><code>CI/CD</code></td>
-  </tr>
-  <tr>
-    <th colspan="5" align="left">Development Tools</th>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" /><br />VS Code</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman" /><br />Postman</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" /><br />Figma</td>
   </tr>
-  <tr>
-    <th colspan="5" align="left">Engineering &amp; AI</th>
-  </tr>
-  <tr>
-    <td align="center"><code>System Design</code></td>
-    <td align="center"><code>Distributed Systems</code></td>
-    <td align="center"><code>Security</code></td>
-    <td align="center"><code>Observability</code></td>
-    <td align="center"><code>Testing</code></td>
-  </tr>
-  <tr>
-    <td align="center"><code>LLM Applications</code></td>
-    <td align="center"><code>RAG</code></td>
-  </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-334155?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/System%20Design-334155?style=flat-square&amp;logo=blueprint&amp;logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-334155?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Security-334155?style=flat-square&amp;logo=letsencrypt&amp;logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Observability-334155?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/Testing-334155?style=flat-square&amp;logo=vitest&amp;logoColor=white" alt="Testing" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-334155?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/RAG-334155?style=flat-square&amp;logo=bookstack&amp;logoColor=white" alt="RAG" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="26" alt="Computer animation" /> My GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thanhtan0501&amp;theme=transparent&amp;hide_border=true&amp;ring=38bdf8&amp;fire=8b5cf6&amp;currStreakLabel=38bdf8" alt="GitHub contribution streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=thanhtan0501&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtan0501&amp;theme=github_dark&amp;animation=rgb-soft" alt="GitHub profile details and contribution timeline" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanhtan0501&amp;theme=github_dark&amp;animation=rgb-soft" alt="GitHub statistics summary card" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhtan0501&amp;theme=github_dark&amp;animation=rgb-soft" alt="GitHub productive time summary card" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtan0501&amp;theme=default&amp;animation=none" alt="GitHub profile details and contribution timeline" width="100%" />
 </p>
 
 <!-- START_COMMIT_STATS -->
@@ -156,7 +128,7 @@ Sunday       7 commits  ██████████████████�
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/happy.gif" width="24" alt="Happy animation" /> Here's a Pinch of Humour:
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random programming joke" width="100%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Random programming joke" width="100%" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif" width="36" height="30" alt="Animated handshake" /> Connect Me Via
