@@ -8,7 +8,7 @@ The repository is public and uses the `main` branch. Keep `README.md` at the rep
 
 The hero is a local copy of the exact static 2000×400 WebP from [Aurorp1g/Aurorp1g](https://github.com/Aurorp1g/Aurorp1g). Its SHA-256 is `574f20aac46633476c6bb029203c98555b5bf7f81210fa69429ec287c9a0b825`. The source repository did not expose license metadata during audit, so the file is retained with that source attribution but should be replaced or removed if reuse permission is not confirmed.
 
-The Skills block is one unified, five-column icon gallery rather than a categorized table. Animated icons are hotlinked from [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator), static icons from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons), and conceptual skills use neutral Shields badges. The icon repositories expose MIT licenses.
+The Skills block is one unified, five-column icon gallery rather than a categorized table. Animated icons are hotlinked from [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator), static icons from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) and Simple Icons, and conceptual skills use neutral Shields badges. The referenced icon repositories expose MIT licenses.
 
 ## Commit statistics
 
@@ -61,6 +61,7 @@ The available browser session could not provide an authenticated GitHub UI sessi
 
 - `skillicons.dev` renders the static technology icons in the unified Skills gallery.
 - `techstack-generator.vercel.app` renders the animated technology SVGs in the unified Skills gallery.
+- `cdn.simpleicons.org` renders the white WebSockets and Drizzle icons used for dark-mode contrast.
 - `img.shields.io` renders small technology and profile badges.
 - `komarev.com/ghpvc` renders the profile-view counter.
 - `streak-stats.demolab.com` renders the neutral/default contribution-streak card.
