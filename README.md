@@ -48,18 +48,18 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="44" height="44" alt="REST APIs" /><br />REST APIs</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=socketio" width="44" height="44" alt="WebSockets" /><br />WebSockets</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="44" height="44" alt="WebSockets" /><br />WebSockets</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br />PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" /><br />MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" /><br />Redis</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" /><br />Prisma</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=drizzle" width="44" height="44" alt="Drizzle ORM" /><br />Drizzle ORM</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/drizzle/ffffff" width="44" height="44" alt="Drizzle ORM" /><br />Drizzle ORM</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="44" height="44" alt="Docker" /><br />Docker</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="44" height="44" alt="AWS" /><br />AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" /><br />AWS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br />Git</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="44" height="44" alt="GitHub" /><br />GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" /><br />GitHub</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" /><br />GitHub Actions</td>
