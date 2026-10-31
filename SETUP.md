@@ -1,40 +1,57 @@
 # Profile README setup
 
-This folder contains the published profile repository for [`thanhtan0501/thanhtan0501`](https://github.com/thanhtan0501/thanhtan0501).
+This folder is the published profile repository for [`thanhtan0501/thanhtan0501`](https://github.com/thanhtan0501/thanhtan0501).
 
 ## Publish or update
 
-The repository was created as a public repository under the `thanhtan0501` account and published on the `main` branch. To reproduce or update it:
+The repository is public and uses the `main` branch. Keep `README.md` at the repository root and `assets/hero.svg` in `assets/`, then commit and push updates to `main`.
 
-1. Use the public repository named exactly `thanhtan0501`.
-2. Keep `README.md` at the repository root and `assets/hero.svg` in `assets/`.
-3. Commit and push to `main`.
-4. Open [`github.com/thanhtan0501`](https://github.com/thanhtan0501) and confirm the profile README is shown.
+## Commit statistics
 
-No GitHub Actions workflow, secret, paid service, or account-setting change is required.
+`.github/workflows/update-readme-stats.yml` runs every Monday at 02:17 UTC and supports `workflow_dispatch` for manual refreshes. It uses only the repository's built-in `GITHUB_TOKEN` with `contents: write` permission.
 
-## Customization
+The generator in `scripts/update_commit_stats.py`:
 
-- Replace the GitHub-only connection link if a verified LinkedIn, portfolio, or contact URL is added later.
-- Keep the featured-project descriptions factual. The current list contains public, non-fork repositories verified on 2026-10-31; the account's newer skill repositories are forks and are intentionally not presented as original work.
-- If a widget becomes unavailable, remove that image rather than replacing it with an unverified metric.
+- Reads public, owned, non-fork, non-archived repositories for `thanhtan0501`.
+- Uses the rolling five-year window ending at workflow execution time.
+- Includes commits whose GitHub API `author.login` is exactly `thanhtan0501`.
+- Deduplicates commit SHAs, excludes merge commits, and excludes bot authors.
+- Converts Git author timestamps to `Asia/Ho_Chi_Minh` (UTC+07:00).
+- Updates only the `START_COMMIT_STATS` / `END_COMMIT_STATS` block.
+- Leaves the README unchanged when the generated block is unchanged.
 
-## External services
+Run the local regression check with:
 
-- `skillicons.dev` renders the grouped technology icons.
+```bash
+python3 scripts/test_commit_stats.py
+```
+
+No WakaTime account or token is needed. `anmol098/waka-readme-stats` was reviewed as a reference, but a small standard-library generator is narrower and avoids unrelated personal metrics.
+
+## Native GitHub Activity overview
+
+The four-axis Activity overview is a GitHub profile setting, not README content. GitHub documents enabling it from the profile's **Contribution settings → Activity overview** menu. The available browser session could not provide an authenticated GitHub UI session for this account, and GitHub exposes no supported CLI/API mutation for this setting. Enable it manually if desired; this does not change repository data or private-contribution visibility.
+
+## External services and assets
+
+- `skillicons.dev` renders grouped technology icons.
 - `img.shields.io` renders small technology and profile badges.
 - `komarev.com/ghpvc` renders the profile-view counter.
 - `streak-stats.demolab.com` renders the contribution-streak card.
+- `readme-jokes.vercel.app` renders the random programming joke SVG.
+- The small GIFs are hotlinked from [TheDudeThatCode/TheDudeThatCode](https://github.com/TheDudeThatCode/TheDudeThatCode) and are not copied into this repository. The source repository did not expose license metadata during audit, so replace those URLs with approved/original assets if redistribution rights are required.
 
 The local `assets/hero.svg` is original to this profile composition and has no third-party asset dependency.
 
-## Deliberately omitted
+## Content and ownership notes
 
-WakaTime, article automation, contribution animations, profile trophies, and GitHub Readme Stats were not enabled: no user-owned WakaTime/RSS integration was provided, and the trophy/stats endpoints were unavailable during validation. The README therefore avoids fake, stale, or unreliable live sections.
+The featured projects are public, non-fork repositories verified through the GitHub API. The newer skill repositories are forks and are intentionally not presented as original work. No employer, credentials, private repository, client information, or unverified social URL is included.
+
+The quote is a static, attributed Leslie Lamport quote; no quote-rotation action or secret is required.
 
 ## Reference patterns studied
 
-- [sciencepal/sciencepal](https://github.com/sciencepal/sciencepal): playful animated greeting, side illustration, visitor counter, and dashboard-like activity blocks.
-- [apoorvtyagi/apoorvtyagi](https://github.com/apoorvtyagi/apoorvtyagi): centered social row, structured About Me, grouped icon strip, streak/activity section, and optional blog automation.
+- [sciencepal/sciencepal](https://github.com/sciencepal/sciencepal): playful animated greeting, visitor counter, and dashboard-like activity blocks.
+- [apoorvtyagi/apoorvtyagi](https://github.com/apoorvtyagi/apoorvtyagi): compact animated headings, structured About Me, grouped skills, streak/activity sections, quote, and humour card.
 
-This README borrows those composition ideas without copying their biographies, identity-specific images, or automation credentials.
+This README borrows those composition ideas without copying their biographies, personal URLs, or statistics.
