@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hero.svg" alt="Abstract midnight-blue developer dashboard with cyan and violet network lines" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aurorp1g/Aurorp1g/main/footer.webp" alt="Colorful software engineering technology collage" width="100%" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Developer animation" /> About Me:
@@ -27,47 +27,96 @@
 - 🤖 I'm exploring practical AI applications, LLM integrations, RAG, and developer tooling.
 - 🛠️ I care about reliable systems, clean architecture, and maintainable software.
 
-## Technology map
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Coding animation" /> Skills
 
-### Frontend
+> Tools and Technologies
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=light" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" /></a>
-
-### Backend
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs&theme=light" alt="Node.js and NestJS" /></a>
-
-### Data & caching
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,drizzle&theme=light" alt="PostgreSQL, MongoDB, Redis, Prisma, Drizzle ORM" /></a>
-
-### Cloud & delivery
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux&theme=light" alt="Docker, AWS, GitHub Actions, Linux" /></a>
-
-### Engineering & AI
-
-![System Design](https://img.shields.io/badge/System%20Design-172554?style=flat-square&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-1e3a8a?style=flat-square&logoColor=white)
-![Security](https://img.shields.io/badge/Security-312e81?style=flat-square&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-3730a3?style=flat-square&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-4338ca?style=flat-square&logoColor=white)
-![LLM APIs & RAG](https://img.shields.io/badge/LLM%20APIs%20%26%20RAG-0e7490?style=flat-square&logoColor=white)
-
-## Selected public builds
-
-These are public repositories owned by this account and verified through the GitHub API. Forks and mirrors are intentionally left out of this section.
-
-| Project | What it shows |
-| --- | --- |
-| [TikTok Clone v2](https://github.com/thanhtan0501/--project-Tiktok-Clone-v2) | A Next.js / TypeScript product build with Appwrite integration and client-side media tooling. |
-| [Spotify project](https://github.com/thanhtan0501/--project-spotify) | A Next.js / TypeScript interface build with reusable UI components and icon-driven navigation. |
-| [Airbnb project](https://github.com/thanhtan0501/--project-airbnb) | A Next.js / TypeScript interface build using Tailwind CSS and Zustand for client state. |
+<table>
+  <tr>
+    <th colspan="5" align="left">Frontend</th>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5" /><br />HTML5</td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3" /><br />CSS3</td>
+    <td align="center" width="20%"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="44" height="44" alt="JavaScript" /><br />JavaScript</td>
+    <td align="center" width="20%"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="44" height="44" alt="TypeScript" /><br />TypeScript</td>
+    <td align="center" width="20%"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="44" height="44" alt="React" /><br />React</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" /><br />Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" /><br />Tailwind CSS</td>
+  </tr>
+  <tr>
+    <th colspan="5" align="left">Backend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" /><br />Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" /><br />NestJS</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="44" height="44" alt="REST APIs" /><br />REST APIs</td>
+    <td align="center"><code>WebSockets</code></td>
+    <td align="center"><code>API design</code></td>
+  </tr>
+  <tr>
+    <th colspan="5" align="left">Databases &amp; Data</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br />PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" /><br />MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" /><br />Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" /><br />Prisma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=drizzle" width="44" height="44" alt="Drizzle ORM" /><br />Drizzle ORM</td>
+  </tr>
+  <tr>
+    <th colspan="5" align="left">Cloud &amp; DevOps</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="44" height="44" alt="Docker" /><br />Docker</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="44" height="44" alt="AWS" /><br />AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br />Git</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="44" height="44" alt="GitHub" /><br />GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" /><br />GitHub Actions</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" /><br />Linux</td>
+    <td align="center"><code>CI/CD</code></td>
+  </tr>
+  <tr>
+    <th colspan="5" align="left">Development Tools</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" /><br />VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman" /><br />Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" /><br />Figma</td>
+  </tr>
+  <tr>
+    <th colspan="5" align="left">Engineering &amp; AI</th>
+  </tr>
+  <tr>
+    <td align="center"><code>System Design</code></td>
+    <td align="center"><code>Distributed Systems</code></td>
+    <td align="center"><code>Security</code></td>
+    <td align="center"><code>Observability</code></td>
+    <td align="center"><code>Testing</code></td>
+  </tr>
+  <tr>
+    <td align="center"><code>LLM Applications</code></td>
+    <td align="center"><code>RAG</code></td>
+  </tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="26" alt="Computer animation" /> My GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thanhtan0501&theme=transparent&hide_border=true&ring=38bdf8&fire=8b5cf6&currStreakLabel=38bdf8" alt="GitHub contribution streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=thanhtan0501&amp;theme=transparent&amp;hide_border=true&amp;ring=38bdf8&amp;fire=8b5cf6&amp;currStreakLabel=38bdf8" alt="GitHub contribution streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtan0501&amp;theme=github_dark&amp;animation=rgb-soft" alt="GitHub profile details and contribution timeline" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanhtan0501&amp;theme=github_dark&amp;animation=rgb-soft" alt="GitHub statistics summary card" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thanhtan0501&amp;theme=github_dark&amp;animation=rgb-soft" alt="GitHub productive time summary card" width="49%" />
 </p>
 
 <!-- START_COMMIT_STATS -->
@@ -110,14 +159,12 @@ Sunday       7 commits  ██████████████████�
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random programming joke" width="100%" />
 </p>
 
-## Connect
-
-If you’re working on a product that needs careful full-stack engineering, architecture thinking, or practical AI integration, [connect with me on GitHub](https://github.com/thanhtan0501).
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif" width="36" height="30" alt="Animated handshake" /> Connect Me Via
 
 <p align="center">
-  <a href="https://github.com/thanhtan0501"><img src="https://img.shields.io/badge/Follow%20along%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow along on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/thanhtan0501"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="36" height="36" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/btt.thanh_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" height="36" alt="Instagram" /></a>
+  <a href="https://github.com/thanhtan0501"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="36" height="36" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <sub>Built with GitHub-flavored Markdown, Skill Icons, Shields.io, Komarev, Streak Stats, and attributed open-source animation references.</sub>
-</p>
+<p align="center"><sub>Thanks for visiting my profile! Have a great day!</sub></p>
