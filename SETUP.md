@@ -1,13 +1,15 @@
 # Profile README setup
 
-This folder is a ready-to-copy profile repository for `thanhtan0501/thanhtan0501`.
+This folder contains the published profile repository for [`thanhtan0501/thanhtan0501`](https://github.com/thanhtan0501/thanhtan0501).
 
-## Publish
+## Publish or update
 
-1. Create a new **public** GitHub repository named exactly `thanhtan0501`.
-2. Copy `README.md` and `assets/hero.svg` into the repository root and `assets/` folder.
-3. Commit and push to the repository's default branch.
-4. Open `https://github.com/thanhtan0501` and confirm the profile README is shown.
+The repository was created as a public repository under the `thanhtan0501` account and published on the `main` branch. To reproduce or update it:
+
+1. Use the public repository named exactly `thanhtan0501`.
+2. Keep `README.md` at the repository root and `assets/hero.svg` in `assets/`.
+3. Commit and push to `main`.
+4. Open [`github.com/thanhtan0501`](https://github.com/thanhtan0501) and confirm the profile README is shown.
 
 No GitHub Actions workflow, secret, paid service, or account-setting change is required.
 
