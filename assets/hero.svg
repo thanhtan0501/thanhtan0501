@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Full-stack software engineering</title>
+  <desc id="desc">A dark abstract dashboard with cyan and violet nodes connected across a subtle grid.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.55" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#17123b" />
+    </linearGradient>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.15" />
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0.15" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="18" /></filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)" />
+  <rect width="1200" height="300" rx="24" fill="url(#grid)" />
+  <ellipse cx="260" cy="48" rx="210" ry="100" fill="url(#glow)" filter="url(#blur)" />
+  <ellipse cx="980" cy="248" rx="260" ry="120" fill="#8b5cf6" fill-opacity="0.12" filter="url(#blur)" />
+
+  <g fill="none" stroke="url(#edge)" stroke-width="2">
+    <path d="M56 212 L190 120 L338 180 L488 76 L640 146 L794 70 L944 154 L1136 82" />
+    <path d="M190 120 L226 258 L488 76 L548 254 L794 70 L856 244 L1136 82" stroke-opacity="0.48" />
+    <path d="M56 212 L338 180 L640 146 L944 154 L1136 82" stroke-opacity="0.28" />
+  </g>
+
+  <g fill="#0b1220" stroke="#38bdf8" stroke-width="3">
+    <circle cx="56" cy="212" r="7" />
+    <circle cx="190" cy="120" r="9" />
+    <circle cx="338" cy="180" r="7" />
+    <circle cx="488" cy="76" r="10" />
+    <circle cx="640" cy="146" r="7" />
+    <circle cx="794" cy="70" r="10" stroke="#8b5cf6" />
+    <circle cx="944" cy="154" r="7" />
+    <circle cx="1136" cy="82" r="9" stroke="#8b5cf6" />
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#cbd5e1">
+    <text x="56" y="54" font-size="13" fill="#38bdf8" letter-spacing="2">SYSTEMS / PRODUCTS / AI</text>
+    <text x="56" y="92" font-size="28" font-weight="700" fill="#f8fafc">Build with clarity.</text>
+    <text x="56" y="119" font-size="14" fill="#94a3b8">from interface to infrastructure</text>
+    <text x="1078" y="258" font-size="12" fill="#94a3b8" text-anchor="end">THANH TAN · 0501</text>
+  </g>
+</svg>
