@@ -69,7 +69,7 @@
 </p>
 
 <!-- START_COMMIT_STATS -->
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="28" height="28" alt="Day and night animation" /> I'm Most Active in the Daytime 🌆
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="28" height="28" alt="Day and night animation" /> I'm Most Active in the Daytime
 
 ```text
 🌞 Morning    4 commits  ████████░░░░░░░░░░░░░░░░░░░░  11.11 %
