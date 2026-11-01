@@ -1,6 +1,6 @@
 <h1>
   Hi there!
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30" alt="Waving hand" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="28" height="28" alt="Waving hand" />
 </h1>
 
 <p align="center">
@@ -14,35 +14,37 @@
   <img src="./assets/footer.webp" alt="Colorful software engineering technology collage" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Developer animation" /> About Me:
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" height="28" alt="Developer animation" /> About Me:
 
-- <img src="./assets/typing-cat.gif" width="32" height="32" alt="Typing cat" /> **I'm a Senior Software Engineer.**
-- 💻 **I use daily:** `.ts`, `.sql`, `.sh`, React, Next.js, Node.js, and NestJS.
-- ⚡ **Fun fact:** I started in frontend development before moving deeper into full-stack engineering and system design.
-- 🎾 **Tennis:** My favorite way to spend time away from the keyboard.
-- 💬 **Ping me about:** TypeScript, full-stack development, APIs, PostgreSQL, system design, and AI integrations.
+- **I'm a Senior Software Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer typing animation" />
+- 💻 **I use daily:** `.ts`, `.tsx`, `.js`, `.sql`, `.sh`, `.json`, `.yaml`, `.md`, `.prisma`.
+- ⚡ **Fun fact:** I enjoy automating repetitive tasks to make everyday development a little smoother.
+- 🎾 **Tennis:** My favorite way to disconnect from the keyboard.
+- 💬 **Ping me about:** Full-stack development, PostgreSQL, system design, and AI integrations.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="28" height="28" alt="Coding animation" /> Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="44" height="44" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="44" height="44" alt="TypeScript" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="44" height="44" alt="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="44" height="44" alt="TanStack Query" />
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="44" height="44" alt="React Hook Form" />
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" width="44" height="44" alt="Zod" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" />
   <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" />
-  <img src="https://cdn.simpleicons.org/drizzle/ffffff" width="44" height="44" alt="Drizzle ORM" />
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="44" height="44" alt="Drizzle ORM" />
+  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="44" height="44" alt="WebSockets (Socket.IO)" />
+  <img src="https://cdn.simpleicons.org/minio/C72C48" width="44" height="44" alt="MinIO" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="44" height="44" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" width="44" height="44" alt="Nginx" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" />
@@ -52,9 +54,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="44" height="44" alt="Jest" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="44" height="44" alt="Stripe" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="26" alt="Computer animation" /> My GitHub Stats:
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="28" height="28" alt="Computer animation" /> My GitHub Stats:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thanhtan0501&amp;theme=dark&amp;hide_border=true" alt="GitHub contribution streak" width="49%" />
@@ -87,19 +91,19 @@ Sunday       7 commits  ██████████████████�
 ```
 <!-- END_COMMIT_STATS -->
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="24" alt="Thinking animation" /> A Famous Fact/Quote:
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="28" height="28" alt="Thinking animation" /> A Famous Fact/Quote:
 
 > “A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.”
 >
 > — Leslie Lamport
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/happy.gif" width="24" alt="Happy animation" /> Here's a Pinch of Humour:
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/happy.gif" width="28" height="28" alt="Happy animation" /> Here's a Pinch of Humour:
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=light" alt="Random programming joke" width="100%" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif" width="36" height="30" alt="Animated handshake" /> Connect Me Via
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif" width="34" height="28" alt="Animated handshake" /> Connect Me Via
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanhtan0501"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="36" height="36" alt="LinkedIn" /></a>

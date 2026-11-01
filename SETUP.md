@@ -8,9 +8,9 @@ The repository is public and uses the `main` branch. Keep `README.md` at the rep
 
 The hero is a local copy of the exact static 2000×400 WebP from [Aurorp1g/Aurorp1g](https://github.com/Aurorp1g/Aurorp1g). Its SHA-256 is `574f20aac46633476c6bb029203c98555b5bf7f81210fa69429ec287c9a0b825`. The source repository did not expose license metadata during audit, so the file is retained with that source attribution but should be replaced or removed if reuse permission is not confirmed.
 
-The Skills block is one unified icon gallery made from centered paragraphs: no table, category labels, descriptions, or text-only concept badges. Animated technology icons are hotlinked from [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator), and static icons are hotlinked from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) and Simple Icons. The referenced icon repositories expose MIT licenses.
+The Skills block is a single icon-only gallery using three centered rows without category headings, tables, visible labels, or introductory text. It intentionally omits HTML/CSS/JavaScript/TypeScript language icons, and includes React, Next.js, TanStack Query, React Hook Form, Zod, Node.js, NestJS, PostgreSQL, MongoDB, Redis, Prisma, Drizzle, Socket.IO/WebSockets, MinIO, Docker, AWS, Nginx, Git/GitHub, GitHub Actions, Linux, VS Code, Postman, Figma, Jest, and Stripe. Most icons are static logos from Skill Icons, Simple Icons, and the official providers; select SVG icons are animated via TechStack Generator.
 
-The small typing-cat animation in About Me is self-hosted at `assets/typing-cat.gif`. It was sourced from the MIT-licensed [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) collection, shown at 32×32px, and has SHA-256 `c088a65120e8dfea2fe6a98a7ed92cba68a45b19cead4e4a51a3fb6968f4b59e`.
+The About Me role line uses the requested Giphy developer animation at https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif (linked rather than copied). The former `assets/typing-cat.gif` is no longer referenced.
 
 ## Commit statistics
 
@@ -25,7 +25,7 @@ The generator in `scripts/update_commit_stats.py`:
 - Includes commits whose GitHub API `author.login` is exactly `thanhtan0501`.
 - Deduplicates commit SHAs, excludes merge commits, and excludes bot authors.
 - Converts Git author timestamps to `Asia/Ho_Chi_Minh` (UTC+07:00).
-- Renders the dynamic time and weekday headings with distinct animated icons from the MIT-licensed [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) collection.
+- Renders the dynamic time and weekday headings with distinct animated icons at a uniform 28px height. The dominant-time heading does not append a redundant category emoji.
 - Keeps the public generated block limited to dynamic headings and distributions; methodology stays here instead of in `README.md`.
 - Updates only the `START_COMMIT_STATS` / `END_COMMIT_STATS` block.
 - Leaves the README unchanged when the generated block is unchanged.
@@ -72,7 +72,7 @@ The available browser session could not provide an authenticated GitHub UI sessi
 - `streak-stats.demolab.com` renders the static dark contribution-streak card.
 - `readme-jokes.vercel.app` renders the random programming joke SVG with its basic light theme.
 - `github-profile-summary-cards.vercel.app` renders only the static `github_dark` profile-details card.
-- `assets/typing-cat.gif` is the self-hosted animated cat used beside the Senior Software Engineer sentence.
+- The inline developer GIF for the senior engineer sentence is the Giphy URL supplied by the user, not a local asset.
 - The small GIFs are hotlinked from [TheDudeThatCode/TheDudeThatCode](https://github.com/TheDudeThatCode/TheDudeThatCode) and are not copied into this repository. The source repository did not expose license metadata during audit, so replace those URLs with approved/original assets if redistribution rights are required.
 - The handshake GIF is hotlinked from [ashu-guo/ashu-guo](https://github.com/ashu-guo/ashu-guo), whose repository exposes an MIT license. It is not copied into this repository.
 - The LinkedIn icon is from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons), and the Instagram icon is from the [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) asset collection. They are hotlinked, not copied.
@@ -91,3 +91,7 @@ The quote is a static, attributed Leslie Lamport quote; no quote-rotation action
 - [suraweera-AGSS/suraweera-AGSS](https://github.com/suraweera-AGSS/suraweera-AGSS): compact icon gallery and contact presentation.
 
 This README borrows those composition ideas without copying their biographies, personal URLs, or statistics.
+
+## Profile v6 copy and icon conventions
+
+The **I use daily** sentence intentionally lists file extensions rather than frameworks: `.ts`, `.tsx`, `.js`, `.sql`, `.sh`, `.json`, `.yaml`, `.md`, and `.prisma`. The brief Fun fact concerns automating repetitive development tasks. Headings use icons with 28px display height; the handshake has proportional 34px width.

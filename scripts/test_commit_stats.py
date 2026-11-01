@@ -39,6 +39,8 @@ def main():
     }
     rendered = render_stats(summary)
     assert "I'm Most Active in the Daytime" in rendered
+    assert "I'm Most Active in the Daytime 🌆" not in rendered
+    assert 'width="28" height="28"' in rendered
     assert "I'm Most Productive on Thursday" in rendered
     assert "Based on " not in rendered
     assert "Time buckets:" not in rendered

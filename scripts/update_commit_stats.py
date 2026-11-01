@@ -119,7 +119,7 @@ def render_stats(summary: dict[str, Any]) -> str:
         (
             f'### <img src="{TIME_HEADING_ICON}" width="28" height="28" '
             f'alt="Day and night animation" /> I\'m Most Active in the '
-            f"{time_leader} {time_emoji.get(time_leader, '🦉')}"
+            f"{time_leader}"
         ),
         "",
         "```text",
