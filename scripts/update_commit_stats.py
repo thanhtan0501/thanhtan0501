@@ -22,6 +22,8 @@ WINDOW_DAYS = 1825
 BAR_WIDTH = 28
 START_MARKER = "<!-- START_COMMIT_STATS -->"
 END_MARKER = "<!-- END_COMMIT_STATS -->"
+TIME_HEADING_ICON = "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f"
+WEEKDAY_HEADING_ICON = "https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
 TIME_BUCKETS = ("Morning", "Daytime", "Evening", "Night")
 WEEKDAYS = (
     "Monday",
@@ -114,14 +116,11 @@ def render_stats(summary: dict[str, Any]) -> str:
 
     lines = [
         START_MARKER,
-        f"### I'm Most Active in the {time_leader} {time_emoji.get(time_leader, '🦉')}",
-        "",
         (
-            f"> Based on {total} unique authored, non-merge commits from public, owned, "
-            "non-fork repositories over a rolling five-year window. Commit author timestamps "
-            "are converted to Asia/Ho_Chi_Minh (UTC+07:00)."
+            f'### <img src="{TIME_HEADING_ICON}" width="28" height="28" '
+            f'alt="Day and night animation" /> I\'m Most Active in the '
+            f"{time_leader} {time_emoji.get(time_leader, '🦉')}"
         ),
-        "> Time buckets: Night 00:00–05:59 · Morning 06:00–11:59 · Daytime 12:00–17:59 · Evening 18:00–23:59.",
         "",
         "```text",
     ]
@@ -130,9 +129,10 @@ def render_stats(summary: dict[str, Any]) -> str:
     lines += [
         "```",
         "",
-        f"### 📅 I'm Most Productive on {weekday_leader}",
-        "",
-        "> Bars are scaled to the busiest category; percentages are the share of the same commit dataset.",
+        (
+            f'### <img src="{WEEKDAY_HEADING_ICON}" width="28" height="28" '
+            f'alt="Productivity animation" /> I\'m Most Productive on {weekday_leader}'
+        ),
         "",
         "```text",
     ]

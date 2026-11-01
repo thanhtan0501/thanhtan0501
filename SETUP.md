@@ -8,7 +8,9 @@ The repository is public and uses the `main` branch. Keep `README.md` at the rep
 
 The hero is a local copy of the exact static 2000×400 WebP from [Aurorp1g/Aurorp1g](https://github.com/Aurorp1g/Aurorp1g). Its SHA-256 is `574f20aac46633476c6bb029203c98555b5bf7f81210fa69429ec287c9a0b825`. The source repository did not expose license metadata during audit, so the file is retained with that source attribution but should be replaced or removed if reuse permission is not confirmed.
 
-The Skills block is one unified, five-column icon gallery rather than a categorized table. Animated icons are hotlinked from [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator), static icons from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) and Simple Icons, and conceptual skills use neutral Shields badges. The referenced icon repositories expose MIT licenses.
+The Skills block is one unified icon gallery made from centered paragraphs: no table, category labels, descriptions, or text-only concept badges. Animated technology icons are hotlinked from [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator), and static icons are hotlinked from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) and Simple Icons. The referenced icon repositories expose MIT licenses.
+
+The small typing-cat animation in About Me is self-hosted at `assets/typing-cat.gif`. It was sourced from the MIT-licensed [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) collection, shown at 32×32px, and has SHA-256 `c088a65120e8dfea2fe6a98a7ed92cba68a45b19cead4e4a51a3fb6968f4b59e`.
 
 ## Commit statistics
 
@@ -23,6 +25,8 @@ The generator in `scripts/update_commit_stats.py`:
 - Includes commits whose GitHub API `author.login` is exactly `thanhtan0501`.
 - Deduplicates commit SHAs, excludes merge commits, and excludes bot authors.
 - Converts Git author timestamps to `Asia/Ho_Chi_Minh` (UTC+07:00).
+- Renders the dynamic time and weekday headings with distinct animated icons from the MIT-licensed [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) collection.
+- Keeps the public generated block limited to dynamic headings and distributions; methodology stays here instead of in `README.md`.
 - Updates only the `START_COMMIT_STATS` / `END_COMMIT_STATS` block.
 - Leaves the README unchanged when the generated block is unchanged.
 
@@ -39,9 +43,9 @@ No WakaTime account or token is needed. `anmol098/waka-readme-stats` was reviewe
 The README uses only the hosted profile-details/contribution timeline card from [`vn7n24fzkq/github-profile-summary-cards`](https://github.com/vn7n24fzkq/github-profile-summary-cards):
 
 - Username is fixed to `thanhtan0501`.
-- Theme is `default` with `animation=none`.
+- Theme is `github_dark` with `animation=none`.
 - The card is a read-only hosted SVG, so it does not add another workflow, token, generated directory, or README writer.
-- The endpoint returned HTTP 200 with `image/svg+xml` content and the expected username/theme markers during the v3 audit.
+- The endpoint returned HTTP 200 with `image/svg+xml` content and the expected username/theme markers during the v5 audit.
 
 The hosted card and the custom commit-distribution block intentionally use different data sources and counting rules. Their totals should not be expected to match.
 
@@ -61,12 +65,14 @@ The available browser session could not provide an authenticated GitHub UI sessi
 
 - `skillicons.dev` renders the static technology icons in the unified Skills gallery.
 - `techstack-generator.vercel.app` renders the animated technology SVGs in the unified Skills gallery.
-- `cdn.simpleicons.org` renders the white WebSockets and Drizzle icons used for dark-mode contrast.
+- `user-images.githubusercontent.com` and GitHub repository asset URLs from the MIT-licensed Cool GIF collection render the small Skills, time, and weekday heading animations.
+- `cdn.simpleicons.org` renders the white Drizzle icon used for dark-mode contrast.
 - `img.shields.io` renders small technology and profile badges.
 - `komarev.com/ghpvc` renders the profile-view counter.
-- `streak-stats.demolab.com` renders the neutral/default contribution-streak card.
+- `streak-stats.demolab.com` renders the static dark contribution-streak card.
 - `readme-jokes.vercel.app` renders the random programming joke SVG with its basic light theme.
-- `github-profile-summary-cards.vercel.app` renders only the neutral/default profile-details card.
+- `github-profile-summary-cards.vercel.app` renders only the static `github_dark` profile-details card.
+- `assets/typing-cat.gif` is the self-hosted animated cat used beside the Senior Software Engineer sentence.
 - The small GIFs are hotlinked from [TheDudeThatCode/TheDudeThatCode](https://github.com/TheDudeThatCode/TheDudeThatCode) and are not copied into this repository. The source repository did not expose license metadata during audit, so replace those URLs with approved/original assets if redistribution rights are required.
 - The handshake GIF is hotlinked from [ashu-guo/ashu-guo](https://github.com/ashu-guo/ashu-guo), whose repository exposes an MIT license. It is not copied into this repository.
 - The LinkedIn icon is from [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons), and the Instagram icon is from the [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) asset collection. They are hotlinked, not copied.

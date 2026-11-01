@@ -40,6 +40,12 @@ def main():
     rendered = render_stats(summary)
     assert "I'm Most Active in the Daytime" in rendered
     assert "I'm Most Productive on Thursday" in rendered
+    assert "Based on " not in rendered
+    assert "Time buckets:" not in rendered
+    assert "Bars are scaled" not in rendered
+    assert "TIME_HEADING_ICON" not in rendered
+    assert "<img src=\"https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/" in rendered
+    assert "212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" in rendered
     assert "START_COMMIT_STATS" in rendered and "END_COMMIT_STATS" in rendered
     print("commit stats tests: passed")
 

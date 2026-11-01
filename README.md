@@ -10,92 +10,62 @@
 </p>
 
 <p align="center">
-  <strong>Thanh Tan · Full-stack Software Engineer</strong><br />
-  I design and build reliable products across interfaces, APIs, data, and infrastructure.
-</p>
-
-<p align="center">
   <!-- Source: https://github.com/Aurorp1g/Aurorp1g/blob/main/footer.webp -->
   <img src="./assets/footer.webp" alt="Colorful software engineering technology collage" width="100%" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Developer animation" /> About Me:
 
-- 👋 I'm Thanh Tan, a Full-stack Software Engineer with approximately 6 years of professional experience.
-- 🧩 I build web applications across frontend, backend, databases, and infrastructure.
-- 💻 I work daily with TypeScript, JavaScript, React, Next.js, Node.js, NestJS, and PostgreSQL.
-- 🏗️ I enjoy system design, architecture, security, distributed systems, and cloud engineering.
-- 🤖 I'm exploring practical AI applications, LLM integrations, RAG, and developer tooling.
-- 🛠️ I care about reliable systems, clean architecture, and maintainable software.
+- <img src="./assets/typing-cat.gif" width="32" height="32" alt="Typing cat" /> **I'm a Senior Software Engineer.**
+- 💻 **I use daily:** `.ts`, `.sql`, `.sh`, React, Next.js, Node.js, and NestJS.
+- ⚡ **Fun fact:** I started in frontend development before moving deeper into full-stack engineering and system design.
+- 🎾 **Tennis:** My favorite way to spend time away from the keyboard.
+- 💬 **Ping me about:** TypeScript, full-stack development, APIs, PostgreSQL, system design, and AI integrations.
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" alt="Coding animation" /> Skills
-
-<p align="center"><sub>Tools and technologies I use to build reliable products.</sub></p>
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5" /><br />HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3" /><br />CSS3</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="44" height="44" alt="JavaScript" /><br />JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="44" height="44" alt="TypeScript" /><br />TypeScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="44" height="44" alt="React" /><br />React</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" /><br />Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" /><br />Tailwind CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" /><br />Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" /><br />NestJS</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="44" height="44" alt="REST APIs" /><br />REST APIs</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="44" height="44" alt="WebSockets" /><br />WebSockets</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" /><br />PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" /><br />MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" /><br />Redis</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" /><br />Prisma</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/drizzle/ffffff" width="44" height="44" alt="Drizzle ORM" /><br />Drizzle ORM</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="44" height="44" alt="Docker" /><br />Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" /><br />AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" /><br />Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" /><br />GitHub</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" /><br />GitHub Actions</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" /><br />Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" /><br />VS Code</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman" /><br />Postman</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" /><br />Figma</td>
-  </tr>
-</table>
+## <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="28" height="28" alt="Coding animation" /> Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-334155?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/System%20Design-334155?style=flat-square&amp;logo=blueprint&amp;logoColor=white" alt="System Design" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-334155?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Security-334155?style=flat-square&amp;logo=letsencrypt&amp;logoColor=white" alt="Security" />
-  <img src="https://img.shields.io/badge/Observability-334155?style=flat-square&amp;logo=opentelemetry&amp;logoColor=white" alt="Observability" />
-  <img src="https://img.shields.io/badge/Testing-334155?style=flat-square&amp;logo=vitest&amp;logoColor=white" alt="Testing" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-334155?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="LLM Applications" />
-  <img src="https://img.shields.io/badge/RAG-334155?style=flat-square&amp;logo=bookstack&amp;logoColor=white" alt="RAG" />
+  <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="44" height="44" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="44" height="44" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="44" height="44" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/drizzle/ffffff" width="44" height="44" alt="Drizzle ORM" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="44" height="44" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="26" alt="Computer animation" /> My GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thanhtan0501&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=thanhtan0501&amp;theme=dark&amp;hide_border=true" alt="GitHub contribution streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtan0501&amp;theme=default&amp;animation=none" alt="GitHub profile details and contribution timeline" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhtan0501&amp;theme=github_dark&amp;animation=none" alt="GitHub profile details and contribution timeline" width="100%" />
 </p>
 
 <!-- START_COMMIT_STATS -->
-### I'm Most Active in the Daytime 🌆
-
-> Based on 36 unique authored, non-merge commits from public, owned, non-fork repositories over a rolling five-year window. Commit author timestamps are converted to Asia/Ho_Chi_Minh (UTC+07:00).
-> Time buckets: Night 00:00–05:59 · Morning 06:00–11:59 · Daytime 12:00–17:59 · Evening 18:00–23:59.
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="28" height="28" alt="Day and night animation" /> I'm Most Active in the Daytime 🌆
 
 ```text
 🌞 Morning    4 commits  ████████░░░░░░░░░░░░░░░░░░░░  11.11 %
@@ -104,9 +74,7 @@
 🌙 Night      8 commits  ████████████████░░░░░░░░░░░░  22.22 %
 ```
 
-### 📅 I'm Most Productive on Saturday
-
-> Bars are scaled to the busiest category; percentages are the share of the same commit dataset.
+### <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="28" height="28" alt="Productivity animation" /> I'm Most Productive on Saturday
 
 ```text
 Monday       4 commits  ██████████████░░░░░░░░░░░░░░  11.11 %
