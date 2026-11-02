@@ -28,34 +28,33 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="44" height="44" alt="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="44" height="44" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="44" height="44" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="44" height="44" alt="TanStack Query" />
-  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="44" height="44" alt="React Hook Form" />
-  <img src="https://cdn.simpleicons.org/zod/3E67B1" width="44" height="44" alt="Zod" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=nestjs" width="44" height="44" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="44" height="44" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="44" height="44" alt="C++" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" width="44" height="44" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="44" height="44" alt="Jest" />
 </p>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="44" height="44" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="44" height="44" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=prisma" width="44" height="44" alt="Prisma" />
   <img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="44" height="44" alt="Drizzle ORM" />
-  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="44" height="44" alt="WebSockets (Socket.IO)" />
-  <img src="https://cdn.simpleicons.org/minio/C72C48" width="44" height="44" alt="MinIO" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="44" height="44" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="44" height="44" alt="Kubernetes" />
   <img src="https://skillicons.dev/icons?i=aws" width="44" height="44" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" width="44" height="44" alt="Nginx" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="44" height="44" alt="GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" width="44" height="44" alt="Nginx" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" width="44" height="44" alt="Jenkins" />
   <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=postman" width="44" height="44" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="44" height="44" alt="Jest" />
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="44" height="44" alt="Stripe" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="44" height="44" alt="Photoshop" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="28" height="28" alt="Computer animation" /> My GitHub Stats:
