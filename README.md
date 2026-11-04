@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <!-- Source: https://github.com/Aurorp1g/Aurorp1g/blob/main/footer.webp -->
-  <img src="./assets/footer.webp" alt="Colorful software engineering technology collage" width="100%" />
+  <img src="./assets/header.webp" alt="Colorful software engineering technology collage" width="100%" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" height="28" alt="Developer animation" /> About Me:
