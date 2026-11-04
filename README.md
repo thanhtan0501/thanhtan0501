@@ -17,7 +17,7 @@
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="28" height="28" alt="Developer animation" /> About Me:
 
 - **I'm a Senior Software Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer typing animation" />
-- 💻 **I use daily:** `.ts`, `.tsx`, `.js`, `.sql`, `.sh`, `.json`, `.yaml`, `.md`, `.prisma`.
+- 💻 **I use daily:** `.ts`, `.js`, `.sql`, `.sh`, `.json`, `.yaml`, `.md`, `.py`, `.cpp`, `.conf`, `.toml`, `.tf`.
 - ⚡ **Fun fact:** I enjoy automating repetitive tasks to make everyday development a little smoother.
 - 🎾 **Tennis:** My favorite way to disconnect from the keyboard.
 - 💬 **Ping me about:** Full-stack development, PostgreSQL, system design, and AI integrations.
