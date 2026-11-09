@@ -67,25 +67,25 @@
 </p>
 
 <!-- START_COMMIT_STATS -->
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="28" height="28" alt="Day and night animation" /> I'm Most Active in the Daytime
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="28" height="28" alt="Day and night animation" /> I'm Most Active in the Morning
 
 ```text
-🌞 Morning    8 commits  ████████████████░░░░░░░░░░░░  20.00 %
-🌆 Daytime   14 commits  ████████████████████████████  35.00 %
-🌃 Evening   10 commits  ████████████████████░░░░░░░░  25.00 %
-🌙 Night      8 commits  ████████████████░░░░░░░░░░░░  20.00 %
+🌞 Morning    7 commits  ████████████████████████████ 100.00 %
+🌆 Daytime    0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+🌃 Evening    0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+🌙 Night      0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 ```
 
-### <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="28" height="28" alt="Productivity animation" /> I'm Most Productive on Sunday
+### <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="28" height="28" alt="Productivity animation" /> I'm Most Productive on Wednesday
 
 ```text
-Monday       6 commits  ███████████████████░░░░░░░░░  15.00 %
-Tuesday      4 commits  ████████████░░░░░░░░░░░░░░░░  10.00 %
-Wednesday    5 commits  ████████████████░░░░░░░░░░░░  12.50 %
-Thursday     4 commits  ████████████░░░░░░░░░░░░░░░░  10.00 %
-Friday       4 commits  ████████████░░░░░░░░░░░░░░░░  10.00 %
-Saturday     8 commits  █████████████████████████░░░  20.00 %
-Sunday       9 commits  ████████████████████████████  22.50 %
+Monday       2 commits  ███████████████████░░░░░░░░░  28.57 %
+Tuesday      0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+Wednesday    3 commits  ████████████████████████████  42.86 %
+Thursday     0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+Friday       0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+Saturday     0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+Sunday       2 commits  ███████████████████░░░░░░░░░  28.57 %
 ```
 <!-- END_COMMIT_STATS -->
 
